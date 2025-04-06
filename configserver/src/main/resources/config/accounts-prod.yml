@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank cards related prod APIs "
+  contactDetails:
+    name: "Sandra X - Product Owner"
+    email: "sandra@bank.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

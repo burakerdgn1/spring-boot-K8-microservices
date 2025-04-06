@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs "
+  contactDetails:
+    name: "Cem X - QA Lead"
+    email: "cem@bank.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

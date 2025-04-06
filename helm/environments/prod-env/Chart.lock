@@ -1,0 +1,24 @@
+dependencies:
+- name: burakerdogan-common
+  repository: file://../../burakerdogan-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../burakerdogan-services/configserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../burakerdogan-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../burakerdogan-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../burakerdogan-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../burakerdogan-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../burakerdogan-services/message
+  version: 0.1.0
+digest: sha256:91cc1cb2b60559ae27e31f7f82f3908472384c6674972008233832403200dc23
+generated: "2025-01-27T04:45:19.943344+03:00"

@@ -1,0 +1,6 @@
+dependencies:
+- name: burakerdogan-common
+  repository: file://../../burakerdogan-common
+  version: 0.1.0
+digest: sha256:88dee1342e1972b88729893e71214365b9da36d568c8f7da91050cdb328f61cb
+generated: "2025-01-27T05:02:32.62903+03:00"

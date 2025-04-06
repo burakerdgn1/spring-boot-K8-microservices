@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related QA APIs "
+  contactDetails:
+    name: "Cherry X - QA Lead"
+    email: "cherry@bank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
